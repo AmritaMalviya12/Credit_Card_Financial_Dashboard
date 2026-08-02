@@ -42,9 +42,4 @@ The goal was to build a weekly credit card financial dashboard that gives a quic
 - Structuring a dashboard so it actually answers business questions, not just displays charts
 - Reading a dataset and pulling out insights that matter (customer segments, geography, product mix)
 
-## Credit
-
-This project was built by following a tutorial by **Rishabh Mishra**.
-YouTube: [@RishabhMishraOfficial](https://www.youtube.com/@RishabhMishraOfficial)
-
 I built it hands-on to learn the workflow, not just to watch — all the SQL queries, DAX code, and dashboard structure were written and tested by me while following along.
